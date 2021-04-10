@@ -4,7 +4,7 @@
 
 # hyhyhy [![Gem Version](https://badge.fury.io/rb/hyhyhy.svg)](http://badge.fury.io/rb/hyhyhy)
 
-> _A Ruby library for creating and outputting professional, business-looking (HTML5) presentations that can be viewed inside the browser!_
+> _A Ruby library for creating and outputting professional, business-looking HTML5 presentations that can be viewed inside the browser!_
 
 ## Introduction
 
